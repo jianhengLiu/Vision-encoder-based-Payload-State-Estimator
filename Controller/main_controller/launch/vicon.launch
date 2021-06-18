@@ -1,0 +1,17 @@
+<launch>
+<!--<include file="$(find vicon_bridge)/launch/vicon.launch"/>-->
+
+<!--    <include file="$(find mavros)/launch/px4.launch"/>-->
+
+<!--    <arg name="server" default="localhost"/>-->
+    <node pkg="main_controller" type="takeoff" name="takeoff" output="screen">
+     </node>
+    <node pkg="main_controller" type="viconRemap" name="viconRemap" output="screen">
+     </node>
+
+<!--    <node pkg="load_estimator" type="encoder" name="encoder" output="screen">-->
+<!--    </node>-->
+</launch>
+
+
+

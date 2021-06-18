@@ -1,0 +1,23 @@
+<launch>
+<!--    <include file="$(find vicon_bridge)/launch/vicon.launch"/>-->
+
+<!--    <node pkg="main_controller" type="ICRA2021_test_node" name="ICRA2021_test_node" output="screen">-->
+<!--    </node>-->
+
+<!--    <node pkg="main_controller" type="viconRemap" name="viconRemap">-->
+<!--    </node>-->
+
+<!--    <node pkg="load_estimator" type="encoder" name="encoder" output="screen">-->
+<!--    </node>-->
+
+    <node pkg="img_extract" type="fisheye_undistort_node" name="fisheye_undistort_node" output="screen">
+    </node>
+
+    <node pkg="STAPLE" type="tracker_encoder" name="tracker_encoder" output="screen">
+    </node>
+
+<!--<node name="rvizvisualisation" pkg="rviz" type="rviz" output="log" args="-d $(find main_controller)/launch/rviz_config/test_traj.rviz" />-->
+</launch>
+
+
+
