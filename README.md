@@ -19,12 +19,8 @@ Due to the unique mechanism design, it it recommended to try our [Simulation](./
 
 
 **Video**
+<iframe src="//player.bilibili.com/player.html?aid=590278777&bvid=BV1Qq4y1U7n4&cid=404680713&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<video src="README.assets/IROS2021-Video_x264.mp4" width="800px" height="500px" controls="controls"></video>
+<iframe src="//player.bilibili.com/player.html?aid=207782584&bvid=BV1fh411W7ht&cid=404682581&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<video src="README.assets/drop_load-2020-09-11_15.55.29.mp4"  width="800px" height="500px" controls="controls"></video>
-
-
-
-<video src="README.assets/payload_trajectory_tracking-2020-08-10_17.26.17.mp4"  width="800px" height="500px" controls="controls"></video>
-
+<iframe src="//player.bilibili.com/player.html?aid=720370723&bvid=BV1eQ4y1a77v&cid=404681647&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
