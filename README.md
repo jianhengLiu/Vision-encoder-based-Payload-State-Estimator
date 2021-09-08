@@ -20,6 +20,9 @@ Due to the unique mechanism design, it it recommended to try our [Simulation](./
 
 **Video**
 
+[![Watch the video](//player.bilibili.com/player.html?aid=590278777&bvid=BV1Qq4y1U7n4&cid=404680713&page=1)](https://www.bilibili.com/video/BV1fh411W7ht?share_source=copy_web)
+
+
 <iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=590278777&bvid=BV1Qq4y1U7n4&cid=404680713&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
