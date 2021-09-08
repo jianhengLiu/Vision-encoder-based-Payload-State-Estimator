@@ -20,12 +20,12 @@ Due to the unique mechanism design, it it recommended to try our [Simulation](./
 
 **Video**
 
-[![Watch the video](README.assets/image-20210908115350284.png)](README.assets/IROS2021-Video_x264.mp4)
+[![Watch the video](README.assets/image-20210908115350284.png)](https://www.bilibili.com/video/BV1Qq4y1U7n4?share_source=copy_web)
 
 
 
 
-[![Watch the video](README.assets/image-20210908115625302.png)](drop_load-2020-09-11_15.55.29.mp4)
+[![Watch the video](README.assets/image-20210908115625302.png)](https://www.bilibili.com/video/BV1eQ4y1a77v?share_source=copy_web)
 
-[![Watch the video](README.assets/image-20210908115712636.png)](README.assets/payload_trajectory_tracking-2020-08-10_17.26.17.mp4)
+[![Watch the video](README.assets/image-20210908115712636.png)](https://www.bilibili.com/video/BV1fh411W7ht?share_source=copy_web)
 
