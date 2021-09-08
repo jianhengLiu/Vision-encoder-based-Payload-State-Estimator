@@ -20,13 +20,12 @@ Due to the unique mechanism design, it it recommended to try our [Simulation](./
 
 **Video**
 
-[![Watch the video](//player.bilibili.com/player.html?aid=590278777&bvid=BV1Qq4y1U7n4&cid=404680713&page=1)](https://www.bilibili.com/video/BV1fh411W7ht?share_source=copy_web)
+[![Watch the video](README.assets/image-20210908115350284.png)](README.assets/IROS2021-Video_x264.mp4)
 
 
-<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=590278777&bvid=BV1Qq4y1U7n4&cid=404680713&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
-<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=207782584&bvid=BV1fh411W7ht&cid=404682581&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![Watch the video](README.assets/image-20210908115625302.png)](drop_load-2020-09-11_15.55.29.mp4)
 
+[![Watch the video](README.assets/image-20210908115712636.png)](README.assets/payload_trajectory_tracking-2020-08-10_17.26.17.mp4)
 
-<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=720370723&bvid=BV1eQ4y1a77v&cid=404681647&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
