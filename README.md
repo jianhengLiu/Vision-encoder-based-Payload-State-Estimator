@@ -20,11 +20,11 @@ Due to the unique mechanism design, it it recommended to try our [Simulation](./
 
 **Video**
 
-<video src="README.assets/IROS2021-Video_x264.mp4"></video>
+<video src="README.assets/IROS2021-Video_x264.mp4" width="800px" height="500px" controls="controls"></video>
 
-<video src="README.assets/drop_load-2020-09-11_15.55.29.mp4"></video>
+<video src="README.assets/drop_load-2020-09-11_15.55.29.mp4"  width="800px" height="500px" controls="controls"></video>
 
 
 
-<video src="README.assets/payload_trajectory_tracking-2020-08-10_17.26.17.mp4"></video>
+<video src="README.assets/payload_trajectory_tracking-2020-08-10_17.26.17.mp4"  width="800px" height="500px" controls="controls"></video>
 
